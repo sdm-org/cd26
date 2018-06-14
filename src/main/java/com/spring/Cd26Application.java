@@ -21,7 +21,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Cd26Application {
- 
+  
 	public static void main(String[] args) {
 		SpringApplication.run(Cd26Application.class, args);
 	}
